@@ -3,8 +3,9 @@ Details:
 "The Vitruvian Project aims to create a digital human solution that is Creative Commons Zero, effectively Public Domain, that way we can make a no strings attached solution to Character creation Woes." - Hopefullyidont1
 
 Links:
-Here is the official Vitruvian Project 3D models download like by the author: https://blenderartists.org/t/open-source-customizable-digital-human-vitruvian-project/1457388/119 
-"Remember that the download is: https://drive.google.com/drive/folders/1ZjGy5TeTX-wgMIQvpUsRTK-LV22miXUb?usp=share_link 8 as is listed at the start of the thread, Hopefully you find it useful!" - Hopefullyidont1 +
+Here is the official Vitruvian Project 3D models download link by the author:
+"Remember that the download is: https://drive.google.com/drive/folders/1ZjGy5TeTX-wgMIQvpUsRTK-LV22miXUb?usp=share_link 8 as is listed at the start of the thread, Hopefully you find it useful!" - Hopefullyidont1
+Download link source: https://blenderartists.org/t/open-source-customizable-digital-human-vitruvian-project/1457388/119 + 
 Master links (source): https://blenderartists.org/t/open-source-customizable-digital-human-vitruvian-project/1457388 + 
 Mirror master link for the Vitruvian Project C.C.0: https://drive.google.com/drive/folders/1ymCxqWpuc-FzyeMTR339N_bGVJpSms0q
 
