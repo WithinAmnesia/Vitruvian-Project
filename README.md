@@ -8,6 +8,7 @@ Here is the official Vitruvian Project 3D models download link by the author:
 Download link source: https://blenderartists.org/t/open-source-customizable-digital-human-vitruvian-project/1457388/119 + 
 Master links (source): https://blenderartists.org/t/open-source-customizable-digital-human-vitruvian-project/1457388 + 
 Mirror master link for the Vitruvian Project C.C.0: https://drive.google.com/drive/folders/1ymCxqWpuc-FzyeMTR339N_bGVJpSms0q
+Itch.io link: https://withinamnesia.itch.io/vitruvian-project-cc0
 
 Notes:
 "Good news everybody, after talking with the original author of Antonia Polygon, Olaf Delgado-Friedrichs (Odf) has graciously officially released Antonia as CC0, this formalizes the prior handshake agreement and allows Vitruvian to be used without worry.
